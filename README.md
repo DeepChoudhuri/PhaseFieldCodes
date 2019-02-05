@@ -4,7 +4,7 @@ Specific C++ files present in the repository are:
 
 1.Parameters.h and Parameters.cpp: stores computational parameters e.g. time step, etc.
 
-2. Spinodal.h and Spinoda.cpp: CH equations and the potential (I have used a double well potential)
+2. Spinodal.h and Spinodal.cpp: CH equations and the potential (I have used a double well potential)
 
 3. PFUtilities.h and PFUtilities.cpp: Utility programs that contaning generic functions meant to solve phase field problems
 
